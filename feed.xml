@@ -1,6 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<!-- This document was created with Syntext Serna Free. -->
-<complexes>
+<!-- This document was created with Syntext Serna Free. --><complexes>
   <complex>
     <id>107731</id>
     <name>ЖК Льва Толстого</name>
@@ -38,7 +37,7 @@
             <renovation>да</renovation>
             <window_view>Во двор и на улицу</window_view>
             <bathroom>совместный</bathroom>
-            <plan>http://stelinvest.ru/images/cms/data/kashtan/4-10_etazh_1_pod_ezd.png</plan>
+            <plan>http://stelinvest.ru/images/cms/data/kashtan/4-10_etazh_1_pod_ezd1.png</plan>
           </flat>
         </flats>
       </building>
