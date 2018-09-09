@@ -11,7 +11,7 @@
       <text>Жилой дом с помещениями общественного назначения и подземной автостоянкой по улице Льва Толстого.</text>
     </description_main>
     <images>
-      <image>http://stelinvest.ru/images/фото.jpg</image>
+      <image>https://vluck46.github.io/domclick/images/foto.jpg</image>
     </images>
     <buildings>
       <building>
@@ -37,7 +37,7 @@
             <renovation>да</renovation>
             <window_view>Во двор и на улицу</window_view>
             <bathroom>совместный</bathroom>
-            <plan>http://stelinvest.ru/images/cms/data/kashtan/4-10_etazh_1_pod_ezd1.png</plan>
+            <plan/>
           </flat>
         </flats>
       </building>
