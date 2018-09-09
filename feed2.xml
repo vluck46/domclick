@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><complexes>
+  <complex>
+    <id>108546</id>
+    <name>ЖК Росинка</name>
+    <latitude>51.792493</latitude>
+    <longitude>36.185819</longitude>
+    <address>г.Курск, ул. Росинка, д.2</address>
+    <description_main>
+      <title/>
+      <text>Четырехэтажный жилой дом строится в северной части Центрального округа г. Курска. Кирпичный дом с поквартирным отоплением и благоустроенной территорией, с двухуровневной подземной парковкой</text>
+    </description_main>
+    <images>
+      <image>https://vluck46.github.io/domclick/images1/IMG_20180511_163327.jpg</image>
+      <image>https://vluck46.github.io/domclick/images1/IMG_20180511_163832_1.jpg</image>
+      <image>https://vluck46.github.io/domclick/images1/IMG_20180511_163927.jpg</image>
+    </images>
+    <buildings>
+      <building>
+        <id>141726</id>
+        <fz_214>да</fz_214>
+        <name>г.Курск, Росинка, д.4</name>
+        <floors>4</floors>
+        <building_state>built</building_state>
+        <built_year>2018</built_year>
+        <ready_quarter>4</ready_quarter>
+        <building_type>кирпичный</building_type>
+        <flats>
+          <flat>
+            <flat_id>139794</flat_id>
+            <apartment>25</apartment>
+            <floor>3</floor>
+            <room>2</room>
+            <price>2540000</price>
+            <area>62,4</area>
+            <kitchen_area>13,5</kitchen_area>
+            <living_area>42</living_area>
+            <balcony>Лоджия</balcony>
+            <renovation>да</renovation>
+            <window_view>Во двор и на улицу</window_view>
+            <bathroom>раздельный</bathroom>
+            <plan/>
+          </flat>
+        </flats>
+      </building>
+    </buildings>
+    <sales_info>
+      <sales_phone>+9606997777</sales_phone>
+      <responsible_officer_phone>+9606997777</responsible_officer_phone>
+      <address>г.Курск, Росинка, 2</address>
+      <timezone>UTC/GMT+3</timezone>
+    </sales_info>
+    <developer>
+      <name>ООО Росинка</name>
+      <id>108545</id>
+      <site>http://rosinka-dom.ru/</site>
+      <phone>+7 9606997777</phone>
+    </developer>
+  </complex>
+</complexes>
