@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <!-- This document was created with Syntext Serna Free. --><complexes>
   <complex>
-    <id>107731</id>
+    <id>108614</id>
     <name>ЖК Льва Толстого</name>
     <latitude>51.752156</latitude>
     <longitude>36.203453</longitude>
@@ -36,7 +36,7 @@
             <balcony>Лоджия</balcony>
             <renovation>да</renovation>
             <window_view>Во двор и на улицу</window_view>
-            <bathroom>совместный</bathroom>
+            <bathroom>раздельный</bathroom>
             <plan/>
           </flat>
         </flats>
