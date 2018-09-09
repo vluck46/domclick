@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. -->
+<complexes>
+  <complex>
+    <id>107731</id>
+    <name>ЖК Льва Толстого</name>
+    <latitude>51.752156</latitude>
+    <longitude>36.203453</longitude>
+    <address>г.Курск, Челюскинцев, 23/1</address>
+    <description_main>
+      <title/>
+      <text>Жилой дом с помещениями общественного назначения и подземной автостоянкой по улице Льва Толстого.</text>
+    </description_main>
+    <images>
+      <image>http://stelinvest.ru/images/фото.jpg</image>
+    </images>
+    <buildings>
+      <building>
+        <id>141953</id>
+        <fz_214>да</fz_214>
+        <name>г.Курск, Челюскинцев, 23/1</name>
+        <floors>11</floors>
+        <building_state>built</building_state>
+        <built_year>2020</built_year>
+        <ready_quarter>3</ready_quarter>
+        <building_type>кирпичный</building_type>
+        <flats>
+          <flat>
+            <flat_id>139790</flat_id>
+            <apartment>1</apartment>
+            <floor>1</floor>
+            <room>1</room>
+            <price>1200000</price>
+            <area>43,45</area>
+            <kitchen_area>10,73</kitchen_area>
+            <living_area>39,54</living_area>
+            <balcony>Лоджия</balcony>
+            <renovation>да</renovation>
+            <window_view>Во двор и на улицу</window_view>
+            <bathroom>совместный</bathroom>
+            <plan>http://stelinvest.ru/images/cms/data/kashtan/4-10_etazh_1_pod_ezd.png</plan>
+          </flat>
+        </flats>
+      </building>
+    </buildings>
+    <sales_info>
+      <sales_phone>+9100227060</sales_phone>
+      <responsible_officer_phone>+9100227060</responsible_officer_phone>
+      <address>г.Курск, Челюскинцев, 23/1</address>
+      <timezone>UTC/GMT+3</timezone>
+    </sales_info>
+    <developer>
+      <name>ООО &quot;Эльдекор 21 плюс</name>
+      <id>108614</id>
+      <site>http://eldecor-21.ru</site>
+      <phone>+7 9100227060</phone>
+    </developer>
+  </complex>
+</complexes>
