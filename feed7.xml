@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>110894</id>
+		<name>UnderSun</name>
+		<latitude>52.603000</latitude>
+		<longitude>39.599328</longitude>
+		<address>Липецк, Литаврина</address>
+		<images>
+			<image>http://litavrina.rss48.ru/images/advantages/1-1_pre.jpg</image>
+		</images>
+		<description_main>
+			<title>Заголовок описания</title>
+			<text>Элитный дом олицетворяет стиль и образ жизни современного успешного человека, который всегда в центре деловой жизни. Undersun – стильный дом, возведенный с использованием немецких технологий XXI века.</text>
+		</description_main>
+		<buildings>
+			<building>
+				<id>147382</id>
+				<fz_214>да</fz_214>
+				<name>UnderSun</name>
+				<floors>12</floors>
+				<floors_ready>8</floors_ready>
+				<building_state>built</building_state>
+				<built_year>2019</built_year>
+				<ready_quarter>1</ready_quarter>
+				<building_type>кирпичный</building_type>
+				<flats>
+					<flat>
+						<flat_id>55</flat_id>
+						<apartment>55</apartment>
+						<floor>6</floor>
+						<room>2</room>
+						<plan>http://litavrina.rss48.ru/images/advantages/3-1_pre.jpg</plan>
+						<balcony>Лоджия</balcony>
+						<renovation>да</renovation>
+						<price>4177000</price>
+						<area>64,25</area>
+						<living_area>14,6</living_area>
+						<kitchen_area>18,4</kitchen_area>
+						<rooms_area>
+							<area>15</area>
+							<area>16</area>
+							<area>11</area>
+							<area>12</area>
+						</rooms_area>
+						<window_view>Во двор</window_view>
+						<bathroom>раздельный</bathroom>
+						<housing_type>0</housing_type>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+74742345587</sales_phone>
+			<responsible_officer_phone>+79601438750</responsible_officer_phone>
+			<address>Липецк, Литаврина</address>
+			<sales_latitude></sales_latitude>
+			<sales_longitude></sales_longitude>
+			<timezone>UTC/GMT+3</timezone>
+		</sales_info>
+		<developer>
+			<id>225792</id>
+			<name>АО "РЕМСТРОЙСЕРВИС"</name>
+			<phone>74742345587</phone>
+			<site>http://litavrina.rss48.ru</site>
+		</developer>
+	</complex>
+</complexes>
