@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>9854</id>
+		<name>Континент</name>
+		<latitude>52.618632</latitude>
+		<longitude>39.587157</longitude>
+		<address>Липецк, Балмочных</address>
+		<images>
+			<image>http://kontinent.rss48.ru/images/advantages/1-2_pre.jpg</image>
+		</images>
+		<description_main>
+			<title>Заголовок описания</title>
+			<text>Дом в центре города, расположенный на границе парка, реализующийся с высочайшим уровнем строительных технологий и бескомпромиссным качеством внутренней и внешней отделки, без всякого сомнения, станет одним из лучших домов для жизни.</text>
+		</description_main>
+		<buildings>
+			<building>
+				<id>53212</id>
+				<fz_214>да</fz_214>
+				<name>Континент</name>
+				<floors>25</floors>
+				<floors_ready>8</floors_ready>
+				<building_state>built</building_state>
+				<built_year>2019</built_year>
+				<ready_quarter>1</ready_quarter>
+				<building_type>кирпичный</building_type>
+				<flats>
+					<flat>
+						<flat_id>90</flat_id>
+						<apartment>90</apartment>
+						<floor>8</floor>
+						<room>3</room>
+						<plan>http://kontinent.rss48.ru/images/advantages/1-3_pre.jpg</plan>
+						<balcony>Лоджия</balcony>
+						<renovation>да</renovation>
+						<price>6560000</price>
+						<area>113</area>
+						<living_area>14,6</living_area>
+						<kitchen_area>18,4</kitchen_area>
+						<rooms_area>
+							<area>15</area>
+							<area>16</area>
+							<area>11</area>
+							<area>12</area>
+						</rooms_area>
+						<window_view>Во двор</window_view>
+						<bathroom>раздельный</bathroom>
+						<housing_type>0</housing_type>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+74742345587</sales_phone>
+			<responsible_officer_phone>+79601438750</responsible_officer_phone>
+			<address>Липецк, Балмочных</address>
+			<sales_latitude></sales_latitude>
+			<sales_longitude></sales_longitude>
+			<timezone>UTC/GMT+3</timezone>
+		</sales_info>
+		<developer>
+			<id>225792</id>
+			<name>АО "РЕМСТРОЙСЕРВИС"</name>
+			<phone>74742345587</phone>
+			<site>http://kontinent.rss48.ru/</site>
+		</developer>
+	</complex>
+</complexes>
