@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>110868</id>
+		<name>Адмирал</name>
+		<latitude>52.635060</latitude>
+		<longitude>38.463295</longitude>
+		<address>Елец, микрорайон Александровский</address>
+		<images>
+			<image>http://admiral.rss48.ru/static/site_templates/rss_admiral/imgs/main/logo_v2.png</image>
+		</images>
+		<description_main>
+			<title>Заголовок описания</title>
+			<text>Дом сконструирован лучшими архитекторами согласно современным тенденциям</text>
+		</description_main>
+		<buildings>
+			<building>
+				<id>147317</id>
+				<fz_214>да</fz_214>
+				<name>Адмирал</name>
+				<floors>10</floors>
+				<floors_ready>8</floors_ready>
+				<building_state>built</building_state>
+				<built_year>2019</built_year>
+				<ready_quarter>3</ready_quarter>
+				<building_type>кирпичный</building_type>
+				<flats>
+					<flat>
+						<flat_id>25</flat_id>
+						<apartment>25</apartment>
+						<floor>8</floor>
+						<room>2</room>
+						<plan>http://admiral.rss48.ru/static/site_templates/rss_admiral/imgs/main/logo_v2.png</plan>
+						<balcony>Лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2860000</price>
+						<area>75</area>
+						<living_area>14,6</living_area>
+						<kitchen_area>18,4</kitchen_area>
+						<rooms_area>
+							<area>15</area>
+							<area>16</area>
+							<area>11</area>
+							<area>12</area>
+						</rooms_area>
+						<window_view>Во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+						<housing_type>0</housing_type>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+74746759825</sales_phone>
+			<responsible_officer_phone>+79513004070</responsible_officer_phone>
+			<address>Елец, микрорайон Александровский</address>
+			<sales_latitude></sales_latitude>
+			<sales_longitude></sales_longitude>
+			<timezone>UTC/GMT+3</timezone>
+		</sales_info>
+		<developer>
+			<id>225792</id>
+			<name>АО "РЕМСТРОЙСЕРВИС"</name>
+			<phone>74746759825</phone>
+			<site>http://admiral.rss48.ru</site>
+		</developer>
+	</complex>
+</complexes>
