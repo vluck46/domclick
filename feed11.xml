@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>108614</id>
+		<name>ЖК Л.Толстого</name>
+		<latitude>51.752156</latitude>
+		<longitude>36.203453</longitude>
+		<address>г.Курск, Л. Толстого</address>
+		<images>
+			<image>http://www.eldecor-21.ru/media/k2/items/cache/e7c0584255fa6f2981e510285a9e9e4f_L.jpg</image>
+			<image>Второе изображение</image>
+		</images>
+		<description_main>
+			<title>Центр г. Елец</title>
+			<text>Жилой дом с помещениями общественного назначения и подземной автостоянкой по улице Льва Толстого.</text>
+		</description_main>
+		<infrastructure>
+			<parking>наземная</parking>
+			<security>-</security>
+			<fenced_area>+</fenced_area>
+			<sports_ground>-</sports_ground>
+			<playground>+</playground>
+			<school>+</school>
+			<kindergarten>-</kindergarten>
+		</infrastructure>
+		<videos>
+			<video>
+				<type>youtube</type>
+				<url>youtube.com/123456</url>
+			</video>
+			<video>
+				<type>realtime</type>
+				<url>realtime.com/789456</url>
+			</video>
+		</videos>
+		<profits_main>
+			<profit_main>
+				<title>не более 500 символов</title>
+				<text>не более 3000 символов </text>
+				<image>ссылка на сайте или другом общедоступном ресурсе</image>
+			</profit_main>
+			<profit_main>
+				<title>заполняйте предложения начиная с первого</title>
+				<text>Если поле описание не заполнено, УТП не будет выводиться в ФИД</text>
+				<image></image>
+			</profit_main>
+			<profit_main>
+				<title>Заголовок</title>
+				<text>Если поле описание не заполнено, УТП не будет выводиться в ФИД</text>
+				<image></image>
+			</profit_main>
+		</profits_main>
+		<profits_secondary>
+			<profit_secondary>
+				<title>не более 500 символов</title>
+				<text>не более 3000 символов </text>
+				<image>ссылка на сайте или другом общедоступном ресурсе</image>
+			</profit_secondary>
+			<profit_secondary>
+				<title>Заголовок</title>
+				<text>Если поле описание не заполнено, УТП не будет выводиться в ФИД</text>
+				<image></image>
+			</profit_secondary>
+		</profits_secondary>
+		<buildings>
+			<building>
+				<id>141953</id>
+				<fz_214>да</fz_214>
+				<name>ЖК Льва Толстого</name>
+				<floors>8</floors>
+				<floors_ready>8</floors_ready>
+				<building_state>built</building_state>
+				<built_year>2020</built_year>
+				<ready_quarter>2</ready_quarter>
+				<building_phase>1</building_phase>
+				<building_type>кирпичный</building_type>
+				<image>http://buninapark.ru/wp-content/uploads/2pod2.png</image>
+				<flats>
+					<flat>
+						<flat_id>30</flat_id>
+						<apartment>30</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://www.eldecor-21.ru/media/k2/items/cache/e7c0584255fa6f2981e510285a9e9e4f_L.jpg</plan>
+						<balcony>Лоджия</balcony>
+						<renovation>нет</renovation>
+						<price>1659000</price>
+						<area>39,5</area>
+						<living_area>27,1</living_area>
+						<kitchen_area>12,4</kitchen_area>
+						<rooms_area>
+							<area>15</area>
+						</rooms_area>
+						<window_view>На улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+						<housing_type>0</housing_type>
+					</flat>
+					<flat>
+						<flat_id>28</flat_id>
+						<apartment>28</apartment>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>http://www.eldecor-21.ru/media/k2/items/cache/e7c0584255fa6f2981e510285a9e9e4f_L.jpg</plan>
+						<balcony>Лоджия</balcony>
+						<renovation>нет</renovation>
+						<price>2180000</price>
+						<area>54,5</area>
+						<living_area>41,1</living_area>
+						<kitchen_area>13,4</kitchen_area>
+						<rooms_area>
+							<area>12</area>
+							<area>15</area>
+						</rooms_area>
+						<window_view>На улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+						<layout_type>free</layout_type>
+						<housing_type>1</housing_type>
+						<decoration>1</decoration>
+					</flat>
+					<flat>
+						<flat_id>16</flat_id>
+						<apartment>16</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>http://www.eldecor-21.ru/media/k2/items/cache/e7c0584255fa6f2981e510285a9e9e4f_L.jpg</plan>
+						<balcony>больше 2</balcony>
+						<renovation>нет</renovation>
+						<price>3368000</price>
+						<area>84,2</area>
+						<living_area>69,8</living_area>
+						<kitchen_area>14,4</kitchen_area>
+						<rooms_area>
+							<area>10</area>
+						</rooms_area>
+						<window_view>На улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+						<housing_type>0</housing_type>
+						<ready_housing>1</ready_housing>
+					</flat>
+					<flat>
+						<flat_id>24</flat_id>
+						<apartment>24</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>http://www.eldecor-21.ru/media/k2/items/cache/e7c0584255fa6f2981e510285a9e9e4f_L.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>нет</renovation>
+						<price>1659000</price>
+						<area>39,5</area>
+						<window_view>на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+						<housing_type>0</housing_type>
+						<decoration>0</decoration>
+						<ready_housing>1</ready_housing>
+					</flat>
+					<flat>
+						<flat_id>13</flat_id>
+						<apartment>13</apartment>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>http://www.eldecor-21.ru/media/k2/items/cache/e7c0584255fa6f2981e510285a9e9e4f_L.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>нет</renovation>
+						<price>1659000</price>
+						<area>39,5</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+						<layout_type>free</layout_type>
+						<housing_type>1</housing_type>
+						<ready_housing>0</ready_housing>
+					</flat>
+					<flat>
+						<flat_id>61</flat_id>
+						<apartment>61</apartment>
+						<floor>6</floor>
+						<room>2</room>
+						<plan>http://www.eldecor-21.ru/media/k2/items/cache/e7c0584255fa6f2981e510285a9e9e4f_L.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>нет</renovation>
+						<price>2180000</price>
+						<area>54,2</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+						<housing_type>0</housing_type>
+					</flat>
+					<flat>
+						<flat_id>58</flat_id>
+						<apartment>58</apartment>
+						<floor>6</floor>
+						<room>2</room>
+						<plan>http://www.eldecor-21.ru/media/k2/items/cache/e7c0584255fa6f2981e510285a9e9e4f_L.jpg</plan>
+						<balcony>больше 2</balcony>
+						<renovation>нет</renovation>
+						<price>2180000</price>
+						<area>54,2</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+7(4712) 39-21-28</sales_phone>
+			<responsible_officer_phone>+79100227060</responsible_officer_phone>
+			<address>г.Курск, Челюскинцев, 23, офис 2</address>
+			<sales_latitude>52,608465</sales_latitude>
+			<sales_longitude>38,520564</sales_longitude>
+			<timezone>UTC/GMT+3</timezone>
+			<work_days>
+				<work_day>
+					<day>пн</day>
+					<open_at>11:00</open_at>
+					<close_at>19:00</close_at>
+				</work_day>
+				<work_day>
+					<day>вт</day>
+					<open_at>10:00</open_at>
+					<close_at>19:00</close_at>
+				</work_day>
+				<work_day>
+					<day>ср</day>
+					<open_at>10:00</open_at>
+					<close_at>19:00</close_at>
+				</work_day>
+				<work_day>
+					<day>чт</day>
+					<open_at>10:00</open_at>
+					<close_at>19:00</close_at>
+				</work_day>
+				<work_day>
+					<day>пт</day>
+					<open_at>10:00</open_at>
+					<close_at>18:00</close_at>
+				</work_day>
+				<work_day>
+					<day>сб</day>
+					<open_at>09:00</open_at>
+					<close_at>14:00</close_at>
+				</work_day>
+			</work_days>
+		</sales_info>
+		<developer>
+			<id>245080</id>
+			<name>ООО «Эльдекор ХХI плюс».</name>
+			<phone>+7(4712) 39-21-28</phone>
+			<site>http://www.eldecor-21.ru/</site>
+		</developer>
+	</complex>
+</complexes>
