@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>108524</id>
+		<name>ЖК Центральный дом 2</name>
+		<latitude>52.351796</latitude>
+		<longitude>35.348814</longitude>
+		<address>Курская обл, г. Железногорск, ул. Воинов-Интернацианолистов</address>
+		<images>
+			<image>http://glavstroy46.ru/upload/medialibrary/a75/foto-_3_.jpg</image>
+			<image>http://glavstroy46.ru/upload/medialibrary/091/foto_2_.jpg</image>
+			<image>http://glavstroy46.ru/upload/medialibrary/42e/foto-_1_.jpg</image>
+		</images>
+		<description_main>
+			<title>Заголовок описания</title>
+			<text>Дом в центре города,  реализующийся с высочайшим уровнем строительных технологий и бескомпромиссным качеством внутренней и внешней отделки, без всякого сомнения, станет одним из лучших домов для жизни.</text>
+		</description_main>
+		<buildings>
+			<building>
+				<id>141666</id>
+				<fz_214>да</fz_214>
+				<name>ЖК Центральный дом 2</name>
+				<floors>10</floors>
+				<floors_ready>8</floors_ready>
+				<building_state>built</building_state>
+				<built_year>2020</built_year>
+				<ready_quarter>4</ready_quarter>
+				<building_type>панельный</building_type>
+				<flats>
+					<flat>
+						<flat_id>85</flat_id>
+						<apartment>85</apartment>
+						<floor>10</floor>
+						<room>3</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/c6c/1_podezd_tsentralnyy.jpg</plan>
+						<balcony>Лоджия</balcony>
+						<renovation>да</renovation>
+						<price>3507000</price>
+						<area>87,69</area>
+						<living_area>14,6</living_area>
+						<kitchen_area>18,4</kitchen_area>
+						<rooms_area>
+							<area>15</area>
+							<area>16</area>
+							<area>11</area>
+							<area>12</area>
+						</rooms_area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+						<housing_type>0</housing_type>
+					</flat>
+					<flat>
+						<flat_id>42</flat_id>
+						<apartment>42</apartment>
+						<floor>6</floor>
+						<room>3</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/c6c/1_podezd_tsentralnyy.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>3507000</price>
+						<area>87,69</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>21</flat_id>
+						<apartment>21</apartment>
+						<floor>4</floor>
+						<room>3</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/c6c/1_podezd_tsentralnyy.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>3507000</price>
+						<area>87,69</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>10</flat_id>
+						<apartment>10</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/37a/centr2_1.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1422800</price>
+						<area>35,57</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>13</flat_id>
+						<apartment>13</apartment>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/37a/centr2_1.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2675200</price>
+						<area>66,88</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>16</flat_id>
+						<apartment>16</apartment>
+						<floor>3</floor>
+						<room>2</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/37a/centr2_1.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2615000</price>
+						<area>65,38</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>44</flat_id>
+						<apartment>44</apartment>
+						<floor>6</floor>
+						<room>1</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/37a/centr2_1.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1422800</price>
+						<area>35,57</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>62</flat_id>
+						<apartment>62</apartment>
+						<floor>8</floor>
+						<room>1</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/37a/centr2_1.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1422800</price>
+						<area>35,57</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+7414876776</sales_phone>
+			<responsible_officer_phone>+79308585808</responsible_officer_phone>
+			<address>Курская обл, г. Железногорск, ул. Курская, д. 33</address>
+			<sales_latitude></sales_latitude>
+			<sales_longitude></sales_longitude>
+			<timezone>UTC/GMT+3</timezone>
+		</sales_info>
+		<developer>
+			<id>233336</id>
+			<name>ООО "Главстрой"</name>
+			<phone>7414876776</phone>
+			<site>http://glavstroy46.ru/</site>
+		</developer>
+	</complex>
+</complexes>
