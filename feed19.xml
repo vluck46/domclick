@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>108285</id>
+		<name>ЖК Курская</name>
+		<latitude>52.338295</latitude>
+		<longitude>35.357959</longitude>
+		<address>Курская обл, г. Железногорск, ул. Курская</address>
+		<images>
+			<image>http://glavstroy46.ru/upload/medialibrary/24c/3.jpg</image>
+			<image>http://glavstroy46.ru/upload/medialibrary/674/kur04.jpg</image>
+			<image>http://glavstroy46.ru/upload/medialibrary/153/kur01_1500.jpg</image>
+		</images>
+		<description_main>
+			<title>Заголовок описания</title>
+			<text>Дом в центре города,  реализующийся с высочайшим уровнем строительных технологий и бескомпромиссным качеством внутренней и внешней отделки, без всякого сомнения, станет одним из лучших домов для жизни.</text>
+		</description_main>
+		<buildings>
+			<building>
+				<id>141241</id>
+				<fz_214>да</fz_214>
+				<name>ЖК Центральный дом 2</name>
+				<floors>10</floors>
+				<floors_ready>8</floors_ready>
+				<building_state>built</building_state>
+				<built_year>2020</built_year>
+				<ready_quarter>4</ready_quarter>
+				<building_type>панельный</building_type>
+				<flats>
+					<flat>
+						<flat_id>83</flat_id>
+						<apartment>85</apartment>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>Лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2375600</price>
+						<area>59,39</area>
+						<living_area>14,6</living_area>
+						<kitchen_area>18,4</kitchen_area>
+						<rooms_area>
+							<area>15</area>
+							<area>16</area>
+							<area>11</area>
+							<area>12</area>
+						</rooms_area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+						<housing_type>0</housing_type>
+					</flat>
+					<flat>
+						<flat_id>40</flat_id>
+						<apartment>42</apartment>
+						<floor>6</floor>
+						<room>2</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2375600</price>
+						<area>59,39</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>20</flat_id>
+						<apartment>21</apartment>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1598400</price>
+						<area>39,96</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>11</flat_id>
+						<apartment>10</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1598400</price>
+						<area>39,96</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>14</flat_id>
+						<apartment>13</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2317600</price>
+						<area>57,94</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>17</flat_id>
+						<apartment>16</apartment>
+						<floor>3</floor>
+						<room>2</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2317600</price>
+						<area>57,94</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>45</flat_id>
+						<apartment>44</apartment>
+						<floor>6</floor>
+						<room>1</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1598400</price>
+						<area>39,96</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>63</flat_id>
+						<apartment>62</apartment>
+						<floor>8</floor>
+						<room>1</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1598400</price>
+						<area>39,96</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>78</flat_id>
+						<apartment>78</apartment>
+						<floor>8</floor>
+						<room>1</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1598400</price>
+						<area>39,96</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>96</flat_id>
+						<apartment>96</apartment>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2317600</price>
+						<area>57,94</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>52</flat_id>
+						<apartment>52</apartment>
+						<floor>7</floor>
+						<room>2</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2317600</price>
+						<area>57,94</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>35</flat_id>
+						<apartment>35</apartment>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2317600</price>
+						<area>57,94</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>85</flat_id>
+						<apartment>85</apartment>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2317600</price>
+						<area>57,94</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>16</flat_id>
+						<apartment>16</apartment>
+						<floor>8</floor>
+						<room>2</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>2317600</price>
+						<area>57,94</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>91</flat_id>
+						<apartment>91</apartment>
+						<floor>10</floor>
+						<room>1</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1598400</price>
+						<area>39,96</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>77</flat_id>
+						<apartment>77</apartment>
+						<floor>9</floor>
+						<room>1</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1598400</price>
+						<area>39,96</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>30</flat_id>
+						<apartment>30</apartment>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>http://glavstroy46.ru/upload/medialibrary/eb9/kur1_2.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1598400</price>
+						<area>59,39</area>
+						<window_view>на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+7414876776</sales_phone>
+			<responsible_officer_phone>+79308585808</responsible_officer_phone>
+			<address>Курская обл, г. Железногорск, ул. Курская, д. 33</address>
+			<sales_latitude></sales_latitude>
+			<sales_longitude></sales_longitude>
+			<timezone>UTC/GMT+3</timezone>
+		</sales_info>
+		<developer>
+			<id>233336</id>
+			<name>ООО "Главстрой"</name>
+			<phone>7414876776</phone>
+			<site>http://glavstroy46.ru/</site>
+		</developer>
+	</complex>
+</complexes>
