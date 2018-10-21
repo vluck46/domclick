@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>109340</id>
+		<name>ЖК Майский бульвар</name>
+		<latitude>51.729357</latitude>
+		<longitude>36.135460</longitude>
+		<address>Курск, ул. Майский бульвар</address>
+		<images>
+			<image>http://ingener-kursk.ru/wp-content/uploads/2016/09/ingener-kursk_3-150x150.jpg</image>
+			<image>http://ingener-kursk.ru/wp-content/uploads/2016/09/ingener-kursk_6-150x150.jpg</image>
+			<image>http://ingener-kursk.ru/wp-content/uploads/2016/09/ingener-kursk_7-150x150.jpg</image>
+		</images>
+		<description_main>
+			<title>Заголовок описания</title>
+			<text>Жилая застройка по улице Майский бульвар в городе Курск , 10-ти этажный жилой дом  с поквартирным отоплением.</text>
+		</description_main>
+		<buildings>
+			<building>
+				<id>143013</id>
+				<fz_214>да</fz_214>
+				<name>ЖК Майский бульвар</name>
+				<floors>10</floors>
+				<floors_ready>8</floors_ready>
+				<building_state>built</building_state>
+				<built_year>2019</built_year>
+				<ready_quarter>4</ready_quarter>
+				<building_type>панельный</building_type>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>1</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>Лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1623180</price>
+						<area>41,62</area>
+						<living_area>14,6</living_area>
+						<kitchen_area>18,4</kitchen_area>
+						<rooms_area>
+							<area>15</area>
+							<area>16</area>
+							<area>11</area>
+							<area>12</area>
+						</rooms_area>
+						<window_view>Во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+						<housing_type>0</housing_type>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>2</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1623180</price>
+						<area>41,62</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<apartment>4</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1623180</price>
+						<area>41,62</area>
+						<window_view>на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<apartment>5</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1623180</price>
+						<area>41,62</area>
+						<window_view>на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<apartment>6</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1623180</price>
+						<area>41,62</area>
+						<window_view>на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>101</flat_id>
+						<apartment>101</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>Лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1623180</price>
+						<area>41,62</area>
+						<living_area>14,6</living_area>
+						<kitchen_area>18,4</kitchen_area>
+						<rooms_area>
+							<area>15</area>
+							<area>16</area>
+							<area>11</area>
+							<area>12</area>
+						</rooms_area>
+						<window_view>Во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>102</flat_id>
+						<apartment>102</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1623180</price>
+						<area>41,62</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>104</flat_id>
+						<apartment>104</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1623180</price>
+						<area>41,62</area>
+						<window_view>на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>105</flat_id>
+						<apartment>105</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1623180</price>
+						<area>41,62</area>
+						<window_view>на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>106</flat_id>
+						<apartment>106</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1623180</price>
+						<area>41,62</area>
+						<window_view>на улицу</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>121</flat_id>
+						<apartment>121</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1765150</price>
+						<area>41,05</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>122</flat_id>
+						<apartment>122</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>http://ingener-kursk.ru/wp-content/uploads/2016/07/1-k.jpg</plan>
+						<balcony>лоджия</balcony>
+						<renovation>да</renovation>
+						<price>1765150</price>
+						<area>41,05</area>
+						<window_view>во двор</window_view>
+						<bathroom>совмещенный</bathroom>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+74712394484</sales_phone>
+			<responsible_officer_phone>+79103186221</responsible_officer_phone>
+			<address>305040, г.Курск, пр-т Хрущева, д.32</address>
+			<sales_latitude></sales_latitude>
+			<sales_longitude></sales_longitude>
+			<timezone>UTC/GMT+3</timezone>
+		</sales_info>
+		<developer>
+			<id>233687</id>
+			<name>АО "Инженер"</name>
+			<phone>74712394484</phone>
+			<site>http://ingener-kursk.ru/</site>
+		</developer>
+	</complex>
+</complexes>
