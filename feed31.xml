@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>111628</id>
+		<name>ЖК Апельсин</name>
+		<latitude>52.359552</latitude>
+		<longitude>35.341484</longitude>
+		<address>Курская область, г. Железногорск, 15 мк-н</address>
+		<images>
+			<image>http://zjbi.ru/bank/towns/transparent.png</image>
+			<image>Второе изображение</image>
+		</images>
+		<description_main>
+			<title>Центр г. Елец</title>
+			<text>СОВРЕМЕННЫЕ ПЛАНИРОВКИ
+КАЧЕСТВЕННОЕ ДОМОСТРОЕНИЕ
+УДОБНОЕ РАСПОЛОЖЕНИЕ, </text>
+		</description_main>
+		<infrastructure>
+			<parking>наземная</parking>
+			<security>-</security>
+			<fenced_area>+</fenced_area>
+			<sports_ground>-</sports_ground>
+			<playground>+</playground>
+			<school>+</school>
+			<kindergarten>-</kindergarten>
+		</infrastructure>
+		<videos>
+			<video>
+				<type>youtube</type>
+				<url>youtube.com/123456</url>
+			</video>
+			<video>
+				<type>realtime</type>
+				<url>realtime.com/789456</url>
+			</video>
+		</videos>
+		<profits_main>
+			<profit_main>
+				<title>не более 500 символов</title>
+				<text>не более 3000 символов </text>
+				<image>ссылка на сайте или другом общедоступном ресурсе</image>
+			</profit_main>
+			<profit_main>
+				<title>заполняйте предложения начиная с первого</title>
+				<text>Если поле описание не заполнено, УТП не будет выводиться в ФИД</text>
+				<image></image>
+			</profit_main>
+			<profit_main>
+				<title>Заголовок</title>
+				<text>Если поле описание не заполнено, УТП не будет выводиться в ФИД</text>
+				<image></image>
+			</profit_main>
+		</profits_main>
+		<profits_secondary>
+			<profit_secondary>
+				<title>не более 500 символов</title>
+				<text>не более 3000 символов </text>
+				<image>ссылка на сайте или другом общедоступном ресурсе</image>
+			</profit_secondary>
+			<profit_secondary>
+				<title>Заголовок</title>
+				<text>Если поле описание не заполнено, УТП не будет выводиться в ФИД</text>
+				<image></image>
+			</profit_secondary>
+		</profits_secondary>
+		<buildings>
+			<building>
+				<id>149426</id>
+				<fz_214>да</fz_214>
+				<name>ЖК Апельсин (блок-секция 1Г)</name>
+				<floors>10</floors>
+				<floors_ready></floors_ready>
+				<building_state>built</building_state>
+				<built_year>2020</built_year>
+				<ready_quarter>2</ready_quarter>
+				<building_type>кирпично-монолитный</building_type>
+				<flats>
+					<flat>
+						<flat_id>362</flat_id>
+						<apartment>362</apartment>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=2</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>1826400</price>
+						<area>60,88</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>363</flat_id>
+						<apartment>363</apartment>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=2</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>364</flat_id>
+						<apartment>364</apartment>
+						<floor>3</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=3</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>367</flat_id>
+						<apartment>367</apartment>
+						<floor>3</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=3</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>368</flat_id>
+						<apartment>368</apartment>
+						<floor>4</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=4</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>371</flat_id>
+						<apartment>371</apartment>
+						<floor>4</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=4</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>372</flat_id>
+						<apartment>372</apartment>
+						<floor>5</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=5</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>374</flat_id>
+						<apartment>374</apartment>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=5</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>1826400</price>
+						<area>60,88</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>378</flat_id>
+						<apartment>378</apartment>
+						<floor>6</floor>
+						<room>2</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=6</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>1826400</price>
+						<area>60,88</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>379</flat_id>
+						<apartment>379</apartment>
+						<floor>6</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=6</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>382</flat_id>
+						<apartment>382</apartment>
+						<floor>7</floor>
+						<room>2</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=7</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>1826400</price>
+						<area>60,88</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>383</flat_id>
+						<apartment>383</apartment>
+						<floor>7</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=7</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>396</flat_id>
+						<apartment>386</apartment>
+						<floor>8</floor>
+						<room>2</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=8</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>1826400</price>
+						<area>60,88</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>387</flat_id>
+						<apartment>387</apartment>
+						<floor>8</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=8</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>388</flat_id>
+						<apartment>388</apartment>
+						<floor>9</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=9</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>390</flat_id>
+						<apartment>390</apartment>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=9</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>1826400</price>
+						<area>60,88</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>391</flat_id>
+						<apartment>391</apartment>
+						<floor>9</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=9</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>392</flat_id>
+						<apartment>392</apartment>
+						<floor>10</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=10</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>393</flat_id>
+						<apartment>393</apartment>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=10</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>1855800</price>
+						<area>61,86</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>394</flat_id>
+						<apartment>394</apartment>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=10</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>1826400</price>
+						<area>60,88</area>
+						<window_view>на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+					<flat>
+						<flat_id>395</flat_id>
+						<apartment>395</apartment>
+						<floor>10</floor>
+						<room>3</room>
+						<plan>http://zjbi.ru/zheleznogorsk/15-mikrorayon/?home=57&amp;sec=5&amp;floor=10</plan>
+						<balcony>балкон</balcony>
+						<renovation>нет</renovation>
+						<price>2212500</price>
+						<area>73,75</area>
+						<window_view>во двор и на улицу</window_view>
+						<bathroom>раздельный</bathroom>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>8-800-550-27-90</sales_phone>
+			<responsible_officer_phone>+79202646568</responsible_officer_phone>
+			<address>г.Железногорск, ул. Ленина, д.77</address>
+			<sales_latitude>52,608465</sales_latitude>
+			<sales_longitude>38,520564</sales_longitude>
+			<timezone>UTC/GMT+3</timezone>
+			<work_days>
+				<work_day>
+					<day>пн</day>
+					<open_at>11:00</open_at>
+					<close_at>19:00</close_at>
+				</work_day>
+				<work_day>
+					<day>вт</day>
+					<open_at>10:00</open_at>
+					<close_at>19:00</close_at>
+				</work_day>
+				<work_day>
+					<day>ср</day>
+					<open_at>10:00</open_at>
+					<close_at>19:00</close_at>
+				</work_day>
+				<work_day>
+					<day>чт</day>
+					<open_at>10:00</open_at>
+					<close_at>19:00</close_at>
+				</work_day>
+				<work_day>
+					<day>пт</day>
+					<open_at>10:00</open_at>
+					<close_at>18:00</close_at>
+				</work_day>
+				<work_day>
+					<day>сб</day>
+					<open_at>09:00</open_at>
+					<close_at>14:00</close_at>
+				</work_day>
+			</work_days>
+		</sales_info>
+		<developer>
+			<id>239680</id>
+			<name>АО "Специализированный застройщик ЗЖБИ-3"</name>
+			<phone>+7(4718) 7-77-21</phone>
+			<site>http://www.zjbi.ru/</site>
+		</developer>
+	</complex>
+</complexes>
